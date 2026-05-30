@@ -42,4 +42,4 @@ python car_price.py
 **Mohammad Azhar**  
 Data Analyst Intern | CSE Student  
 
-🔗 LinkedIn:www.linkedin.com/in/azhar-mohammad69
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/azhar-mohammad69)
