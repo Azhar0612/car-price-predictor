@@ -33,7 +33,6 @@ It is built using Python and trained on a real-world dataset.
 
 ## ▶️ How to Run
 
-```bash
 pip install pandas numpy scikit-learn
 python car_price.py
 
