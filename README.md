@@ -44,7 +44,7 @@ Car_price_predictor/
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/car-price-predictor.git
+git clone https://github.com/Azhar0612/car-price-predictor.git
 
 2. Navigate to the project folder:
 cd Car_price_predictor
@@ -83,8 +83,9 @@ Feel free to fork this repository and contribute by improving the model or addin
 
 ## 📬 Contact
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-profile  
+- 📧 Email: azharmd98803@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/azhar-mohammad69
+ 
 
 ---
 
